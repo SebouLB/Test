@@ -5,6 +5,6 @@
 
 void hello_world(char** argc){
 
-    printf("%s","Hello ");
+    printf("%s","Salut ");
     printf("%s%s\n",argc[1], " !");
-}
+}gi
